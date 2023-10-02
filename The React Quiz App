@@ -1,0 +1,2 @@
+This application makes use of the useReducer hook of the React library. This timer based quiz provides seemless navigation between questions, users can effortlessly filter questions based on the toughness level, can keep track of their current 
+scores and highscores.
